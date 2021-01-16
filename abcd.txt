@@ -1,0 +1,10 @@
+begin 
+int main ( ) { int a ;
+int b ;
+int sum ;
+sum = 0 ;
+sum = 3 + 4 - 5 ;
+a = 2 ;
+b = 3 ; 
+sum = a + b ; } 
+end 

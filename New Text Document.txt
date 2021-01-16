@@ -1,0 +1,6 @@
+int a = 4 ;
+int b = 3 ;
+int ans = 0 ;
+do { ans = a + b ;
+} while ( ans != ( a + b ) ) ;
+cout << ans ;
